@@ -32,10 +32,17 @@ I'm a student who currently pursuing my associate degree on WEP Programming
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=rath-samrith-webdev&show_icons=true&theme=gruvbox)
+![Rath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rath-samrith-webdev&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
+###
+## Live and breathe GitHub 
+
+[![Yangshun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangshun&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+
+## I'm code for lyfe! ([profile](https://leetcode.com/yangshun))
+[![Yangshun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=rath-samrith-webdev)](https://github.com/KnlnKS/rath-samrith-webdev-stats)
 #
 <!--
 <details>
