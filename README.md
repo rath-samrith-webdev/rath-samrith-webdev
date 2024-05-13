@@ -1,6 +1,6 @@
 # 🏄‍♂️ Rath Samrith
 
-**`Developer`**
+**`WEP DEVELOPER`**
 
 I'm a student who currently pursuing my associate degree on WEP Programming
 
