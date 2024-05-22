@@ -34,9 +34,10 @@ I'm a student who currently pursuing my associate degree on WEP Programming
 
 #
 
-### 📊 Stats and Streak
+### 📊 Stats
 
 ![Rath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rath-samrith-webdev&show_icons=true&theme=gruvbox)
+### 😁 Streaks
 ![GitHub Streak](https://streak-stats.demolab.com?user=rath-samrith-webdev&theme=gruvbox&border_radius=4.5)
 
 
