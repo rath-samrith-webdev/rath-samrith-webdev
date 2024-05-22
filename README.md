@@ -39,7 +39,7 @@ I'm a student who currently pursuing my associate degree on WEP Programming
 
 ### My streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrath-samrith-webdev&" alt="rath-samrith-webdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rath-samrith-webdev&" alt="rath-samrith-webdev" /></p>
 
 ###
 <!--
