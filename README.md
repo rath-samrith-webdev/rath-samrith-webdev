@@ -35,11 +35,10 @@ I'm a student who currently pursuing my associate degree on WEP Programming
 
 ![Rath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rath-samrith-webdev&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=rath-samrith-webdev&theme=gruvbox&border_radius=4.5) -->
 
 ### My streak
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rath-samrith-webdev&show_icons=true&locale=en" alt="rath-samrith-webdev" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrath-samrith-webdev&" alt="rath-samrith-webdev" /></p>
 
 ###
