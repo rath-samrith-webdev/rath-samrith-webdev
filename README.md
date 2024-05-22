@@ -9,6 +9,7 @@ I'm a student who currently pursuing my associate degree on WEP Programming
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rath-samrith-webdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/rath-samrith-webdev?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rath-samrith-webdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <img src="https://komarev.com/ghpvc/?username=rath-samrith-webdev&label=Profile%20views&color=0e75b6&style=flat" alt="rath-samrith-webdev" />
    </p>
 
 ---
