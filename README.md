@@ -14,6 +14,12 @@ I'm a student who currently pursuing my associate degree on WEP Programming
    </a>
    </p>
 
+<p align="left"> <a href="https://github.com/rath-samrith-webdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rath-samrith-webdev" alt="rath-samrith-webdev" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 ---
 
 ### 🧰 Languages and Tools
