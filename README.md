@@ -20,6 +20,13 @@ I'm a student who currently pursuing my associate degree on WEP Programming
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+
+### 📊 Stats
+
+![Rath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rath-samrith-webdev&show_icons=true&theme=gruvbox)
+### 😁 Streaks
+![GitHub Streak](https://streak-stats.demolab.com?user=rath-samrith-webdev&theme=gruvbox&border_radius=4.5)
+
 ---
 
 ### 🧰 Languages and Tools
@@ -39,13 +46,6 @@ I'm a student who currently pursuing my associate degree on WEP Programming
 <br />
 
 #
-
-### 📊 Stats
-
-![Rath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rath-samrith-webdev&show_icons=true&theme=gruvbox)
-### 😁 Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=rath-samrith-webdev&theme=gruvbox&border_radius=4.5)
-
 
 ###
 <!--
