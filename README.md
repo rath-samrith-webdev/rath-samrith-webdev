@@ -3,30 +3,37 @@
 **`WEP DEVELOPER`**
 
 I'm a student who currently pursuing my associate degree on WEP Programming
+<div align="center">
+   <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+      <div>
+         <p>
+            <a href="https://github.com/rath-samrith-webdev?tab=followers">
+               <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rath-samrith-webdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+            <a href="https://github.com/rath-samrith-webdev?tab=repositories&sort=stargazers">
+               <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rath-samrith-webdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+            <a href="https://github.com/rath-samrith-webdev?tab=profile">
+               <img src="https://komarev.com/ghpvc/?username=rath-samrith-webdev&label=Profile%20views&color=55960c&style=for-the-badge&labelColor=488207&logo=star"" alt="rath-samrith-webdev" />
+            </a>
+         </p>
+      </div>
+      <div>
+         <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+      </div>
+   </div>
+</div>
 
-   <p align="left">
-      <a href="https://github.com/rath-samrith-webdev?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rath-samrith-webdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/rath-samrith-webdev?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rath-samrith-webdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://github.com/rath-samrith-webdev?tab=profile">
-      <img src="https://komarev.com/ghpvc/?username=rath-samrith-webdev&label=Profile%20views&color=55960c&style=for-the-badge&labelColor=488207&logo=star"" alt="rath-samrith-webdev" />
-   </a>
-   </p>
-
-<p align="left"> <a href="https://github.com/rath-samrith-webdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rath-samrith-webdev" alt="rath-samrith-webdev" /></a> </p>
+<p align="center"> <a href="https://github.com/rath-samrith-webdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rath-samrith-webdev" alt="rath-samrith-webdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-
-### 📊 Stats
-
-![Rath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rath-samrith-webdev&show_icons=true&theme=gruvbox)
-### 😁 Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=rath-samrith-webdev&theme=gruvbox&border_radius=4.5)
-
+<div align="left">
+   ### 📊 Stats
+   ![Rath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rath-samrith-webdev&show_icons=true&theme=gruvbox)
+</div>
+<div align="right">
+   ### 😁 Streaks
+   ![GitHub Streak](https://streak-stats.demolab.com?user=rath-samrith-webdev&theme=gruvbox&border_radius=4.5)
+</div>
 ---
 
 ### 🧰 Languages and Tools
