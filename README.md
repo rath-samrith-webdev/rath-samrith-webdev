@@ -1,8 +1,7 @@
 # 🏄‍♂️ RATH-WEBDEV
 
 **`WEP DEVELOPER`**
-
-I'm a student who currently pursuing my associate degree on WEP Programming
+   
 <div align="center">
    <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
       <div>
@@ -28,16 +27,16 @@ I'm a student who currently pursuing my associate degree on WEP Programming
 
 <div align="left">
    ### 📊 Stats
+   
    ![Rath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rath-samrith-webdev&show_icons=true&theme=gruvbox)
-</div>
-<div align="right">
+   
    ### 😁 Streaks
+   
    ![GitHub Streak](https://streak-stats.demolab.com?user=rath-samrith-webdev&theme=gruvbox&border_radius=4.5)
 </div>
 ---
 
 ### 🧰 Languages and Tools
-
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -50,13 +49,10 @@ I'm a student who currently pursuing my associate degree on WEP Programming
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
 
-#
+####
 
-###
-<!--
 <details>
- <summary><h3>👨‍💻 Rath's Coding Journey</h3></summary>
+<summary align="left"><h3>👨‍💻 Rath's Coding Journey</h3></summary>
+
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation.
--->
