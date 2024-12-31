@@ -1,4 +1,4 @@
-# 🏄‍♂️ RATH-WEBDEV
+### 🏄‍♂️ RATH-WEBDEV
 
 **`WEP DEVELOPER`**
    
@@ -27,16 +27,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div align="left">
-   ### 📊 Stats
-   
-   ![Rath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rath-samrith-webdev&show_icons=true&theme=gruvbox)
-   
-   ### 😁 Streaks
-   
-   ![GitHub Streak](https://streak-stats.demolab.com?user=rath-samrith-webdev&theme=gruvbox&border_radius=4.5)
-</div>
----
+### Support Me
+<ul style="list-style-type: none; margin: 0;">
+   <a href="https://www.buymeacoffee.com/test"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+   <a href="https://www.ko-fi.com/test"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+</ul>
 
 ### 🧰 Languages and Tools
 
@@ -50,11 +45,23 @@
 <img align="left" alt="LARAVEL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <br />
+
+
+
+### Top Repositories
+ 
+<div width="100%" align="center"><a href="https://github.com/rath-samrith-webdev/Group3-Carefinder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rath-samrith-webdev&repo=Group3-Carefinder&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rath-samrith-webdev" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rath-samrith-webdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></div>
+
+### 😁 Streaks
+<div width="100%" align="center">
+<a href="http://www.github.com/rath-samrith-webdev"><img src="https://github-readme-stats.vercel.app/api?username=rath-samrith-webdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rath-samrith-webdev's GitHub stats" /></a>
+<a href="http://www.github.com/rath-samrith-webdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rath-samrith-webdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
+
 
 ####
-
-<---!<details>
+<details>
 <summary align="left"><h3>👨‍💻 Rath's Coding Journey</h3></summary>
 
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation.
