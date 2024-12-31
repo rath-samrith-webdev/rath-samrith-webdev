@@ -18,6 +18,8 @@
       <div>
          <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
       </div>
+ <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/rath-samrith-webdev" width="600" height="300" /> </a>
+
    </div>
 </div>
 
