@@ -19,6 +19,7 @@
          <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
       </div>
  <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/rath-samrith-webdev" width="600" height="300" /> </a>
+<a href="https://app.daily.dev/rathwebdev"><img src="https://api.daily.dev/devcards/v2/o52DFrKwNElgTcKJKEALC.png?type=wide&r=l4o" width="652" alt="rath-webwev's Dev Card"/></a>
 
    </div>
 </div>
