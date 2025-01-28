@@ -1,3 +1,6 @@
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Rath;He/him;Computer+Science+Student;Cambodian+Frontend+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+</div>
 ### 🏄‍♂️ RATH-WEBDEV
 
 **`WEP DEVELOPER`**
@@ -18,11 +21,15 @@
       <div>
          <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
       </div>
- <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/rath-samrith-webdev" width="600" height="300" /> </a>
-<a href="https://app.daily.dev/rathwebdev"><img src="https://api.daily.dev/devcards/v2/o52DFrKwNElgTcKJKEALC.png?type=wide&r=l4o" width="652" alt="rath-webwev's Dev Card"/></a>
-
+   <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/rath-samrith-webdev" width="600" height="300" /> </a>
+   <a href="https://app.daily.dev/rathwebdev"><img src="https://api.daily.dev/devcards/v2/o52DFrKwNElgTcKJKEALC.png?type=wide&r=l4o" width="652" alt="rath-webwev's Dev Card"/></a>
    </div>
 </div>
+
+
+<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
+</br>
+<a href="https://open.spotify.com/user/31lfb24qtox53ypt5zkv3ajvetsq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
 
 <p align="center"> <a href="https://github.com/rath-samrith-webdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rath-samrith-webdev" alt="rath-samrith-webdev" /></a> </p>
 
