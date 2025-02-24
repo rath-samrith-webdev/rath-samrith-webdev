@@ -26,8 +26,6 @@
    </div>
 </div>
 
-<a href="https://open.spotify.com/user/31lfb24qtox53ypt5zkv3ajvetsq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
-
 <p align="center"> <a href="https://github.com/rath-samrith-webdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rath-samrith-webdev" alt="rath-samrith-webdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
