@@ -26,9 +26,6 @@
    </div>
 </div>
 
-
-<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
-</br>
 <a href="https://open.spotify.com/user/31lfb24qtox53ypt5zkv3ajvetsq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
 
 <p align="center"> <a href="https://github.com/rath-samrith-webdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rath-samrith-webdev" alt="rath-samrith-webdev" /></a> </p>
